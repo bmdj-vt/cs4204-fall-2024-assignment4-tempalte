@@ -30,7 +30,7 @@ The following should be the output when `assignment4.py` is run:
 python assignment4.py
 ```
 
-![default output](default_output.png)
+![default output](default_output.PNG)
 
 Note that `assignment4.py` requires that the `OrthoCamera` class has a `Transform` object member used to set the position and rotation of the camera.
 
